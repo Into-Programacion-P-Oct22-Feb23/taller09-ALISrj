@@ -1,4 +1,4 @@
-# Taller 9 (Laboratorio)
+# Taller 9 (Laboratorio) POR: DANIEL OJEDA Y ALEX RAMÍREZ
 ## Construcción de programas usando arreglos unidimensionales
 
 Revisar los ejercicios propuestos en el proyecto de Netbeans denominado: **EjerciciosT9**
